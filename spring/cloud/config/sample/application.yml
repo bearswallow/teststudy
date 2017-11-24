@@ -1,0 +1,16 @@
+error:
+  messages:
+    system: 系统异常，请联系管理员！
+    notfound: 请求的数据不存在！
+
+data:
+  dictionary:
+    items:
+      token:
+        name: token
+        description: retrieve token
+        id: 23423-2342-234-234
+      kafka:
+        name: kafka
+        description: send messages and retrieve messages
+        id: 23423-2342-ufdsg-sd
